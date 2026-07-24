@@ -11,7 +11,7 @@
  Left Click: Toogles the macro on-off.
 
 # Requirements
- Windows operating system
+ Windows operating system,
  AutoHotkey v2.0
 
 # Disclaimer
